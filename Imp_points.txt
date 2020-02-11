@@ -1,15 +1,15 @@
 ------------- B6158 Lab Links for Tuesday and Wednesday -----------------
 
-1- Amitji			= https://labs.edu.ihost.com/1156160.s1/2b92
-2- Ashishji			= https://labs.edu.ihost.com/1156160.s2/bc17
-3- Bhanupriyaji		= https://labs.edu.ihost.com/1156160.s3/3ad1
-4- Chaithanyaji 	= https://labs.edu.ihost.com/1156160.s4/e414
+*1- Amitji			= https://labs.edu.ihost.com/1156160.s1/2b92
+*2- Ashishji			= https://labs.edu.ihost.com/1156160.s2/bc17
+*3- Bhanupriyaji		= https://labs.edu.ihost.com/1156160.s3/3ad1
+*4- Chaithanyaji 	= https://labs.edu.ihost.com/1156160.s4/e414
 5- Debrajji			= https://labs.edu.ihost.com/1156160.s5/c26e
 6- Manpreetji		= https://labs.edu.ihost.com/1156160.s6/9500
 7- Deepaji			= https://labs.edu.ihost.com/1156160.s7/7eb2
 8- Sushmaji 		= https://labs.edu.ihost.com/1156160.s8/710a
 9- Shitjiji			= https://labs.edu.ihost.com/1156160.s9/b0f7
-10- Shrutiji 		= https://labs.edu.ihost.com/1156160.s10/fca7
+*10- Shrutiji 		= https://labs.edu.ihost.com/1156160.s10/fca7
 
 
 	
@@ -28,25 +28,48 @@
 South	= Bhanupriyagaru, Chaithanya avvre, Deepa avvre, Sushma avvre
 ROI		= Amitji, Ashishji, Debrajji, Manpreetji, Shitjiji, Shrutiji
 
+Note: "-.5, if you ask to repeat the question!"
+
 Srno		South(Sushma)				ROI (Debraj)
 1.			     0					 		0
 2.				 1							1
 3.				 0							1
 4.				 0							0
+5.				 0							1
+6.				 1                          1
+7.				 1							1
+8. 				 0							0
+9.				 0							0
+10.				 0							1
+11.				 1 							1
+12.				 0							0
+				---							----
+				 4							 7
+------------ Joins -----------------------------------
+1- Vertical
+2- Horizontal  (Set operators)
 
+1- Innter/Equi/Default/Natural
+2- Left outer join
+3- Right outer join
+4- Full outer join
+5- Self join
+6- Cross join
+7- Product/Cartesian join
+8- Non-equi join
+------------- Filter = Condition ---------------------
+	Object Operator Operand
 
+*1- On-demand toolbar
+*2- Query
+3- Reusable filter
+*4- Edit SQL query
 
-
-
-
-
-
-
-
-
-
-
-
-
+Not,And, Or
+---------------- Calculation = Expression ------------------
+1- Concatenate
+2- Extract
+3- Conversion
+4- Mathematical operation
 
 
