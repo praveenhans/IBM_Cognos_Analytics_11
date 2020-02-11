@@ -25,16 +25,14 @@
 3- B6158 : Cognos Report studio : Fundamentals
 
 ----------------- Teams ------------------
-1- South	= Bang + Hyd
-2- ROI(Debraj)		= 
+South	= Bhanupriyagaru, Chaithanya avvre, Deepa avvre, Sushma avvre
+ROI		= Amitji, Ashishji, Debrajji, Manpreetji, Shitjiji, Shrutiji
 
 Srno		South(Sushma)				ROI (Debraj)
 1.			     0					 		0
 2.				 1							1
-
-
-
-
+3.				 0							1
+4.				 0							0
 
 
 
