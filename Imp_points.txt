@@ -141,4 +141,11 @@ Presentation topic for the loser : How to use Data Server and Data Sets in "Data
 10- Shrutiji 		= https://labs.edu.ihost.com/1156161.s10/009b
 
 		Please open the link and START Virtual machine.
-		
+		Note: Copied above links in CHAT window and Imp_points.txt (Github Repo)
+
+
+1- Framework manager			= DMR (Read only, Logical cube, DMR)
+2- Transformer					= Powercube (Read only, Physical cube, .mdc)
+3- Cognos insight				= Standalone (Read + Write, Physical, )
+4- TM1							= Planning and forecasting (Read+Write, Physical, TM1 Server--> .cub)
+5- Dynamic cube designer		= In-memory + Aggregate aware (Read only, Logical, DCServer--> Query service)
