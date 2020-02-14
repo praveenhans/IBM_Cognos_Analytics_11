@@ -129,13 +129,13 @@ Presentation topic for the loser : How to use Data Server and Data Sets in "Data
 
 ------------- Thursday and Friday Links  ------------------------------------
 
-1- Amitji			= https://labs.edu.ihost.com/1156161.s1/8c12
-2- Ashishji			= https://labs.edu.ihost.com/1156161.s2/29f8
-3- Bhanupriyaji		= https://labs.edu.ihost.com/1156161.s3/aca1
-4- Chaithanyaji 	= https://labs.edu.ihost.com/1156161.s4/6679
-5- Debrajji			= https://labs.edu.ihost.com/1156161.s5/3a84
-6- Manpreetji		= https://labs.edu.ihost.com/1156161.s6/cdbf
-7- Deepaji			= https://labs.edu.ihost.com/1156161.s7/3711
+*1- Amitji			= https://labs.edu.ihost.com/1156161.s1/8c12
+*2- Ashishji			= https://labs.edu.ihost.com/1156161.s2/29f8
+*3- Bhanupriyaji		= https://labs.edu.ihost.com/1156161.s3/aca1
+*4- Chaithanyaji 	= https://labs.edu.ihost.com/1156161.s4/6679
+*5- Debrajji			= https://labs.edu.ihost.com/1156161.s5/3a84
+*6- Manpreetji		= https://labs.edu.ihost.com/1156161.s6/cdbf
+*7- Deepaji			= https://labs.edu.ihost.com/1156161.s7/3711
 8- Sushmaji 		= https://labs.edu.ihost.com/1156161.s8/2422
 9- Shitjiji			= https://labs.edu.ihost.com/1156161.s9/2fbe
 10- Shrutiji 		= https://labs.edu.ihost.com/1156161.s10/009b
@@ -149,3 +149,20 @@ Presentation topic for the loser : How to use Data Server and Data Sets in "Data
 3- Cognos insight				= Standalone (Read + Write, Physical, )
 4- TM1							= Planning and forecasting (Read+Write, Physical, TM1 Server--> .cub)
 5- Dynamic cube designer		= In-memory + Aggregate aware (Read only, Logical, DCServer--> Query service)
+
+
+
+
+
+
+aryamit@gmail.com,ashishtiwari327@gmail.com,bhanupriya.gudimetla@gmail.com,rao.chaithanya@gmail.com,debraj.roychowdhury@gmail.com,manpreetmadan27@gmail.com,pdeepa.reddy@gmail.com,nsushma2010@gmail.com,Shitijnagpal@rediffmail.com
+
+
+
+
+
+
+
+
+
+										Will resume our session at 2:30
